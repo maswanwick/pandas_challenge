@@ -5,7 +5,7 @@
 | - | - |
 | `PyCitySchools/Resources/schools_complete.csv` | Dataset representing the school data for the challenge. |
 | `PyCitySchools/Resources/students_complete.csv` | Dataset representing the student data for the challenge. |
-| `PyCitySchools.ipynb` | Jupyter Notebook file that contains the code to complete the challenge as well as the written analysis. |
+| `PyCitySchools/PyCitySchools.ipynb` | Jupyter Notebook file that contains the code to complete the challenge as well as the written analysis. |
 
 # Analysis
 
